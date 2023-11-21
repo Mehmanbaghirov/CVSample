@@ -3,6 +3,7 @@ import Email from './Email';
 import Name from './Name';
 import Address from './Address';
 import PersonalInfo from './PersonalInfo';
+import '../styles/styles.css'
 
 const Profile = () => {
   return (
