@@ -1,0 +1,3 @@
+[submodule "CVSample"]
+	path = CVSample
+	url = https://github.com/Mehmanbaghirov/CVSample.git

@@ -1,0 +1,33 @@
+/* styles.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* PersonalInfo.js */
+.personal-info {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+/* Experience.js */
+.experience-item {
+  margin-bottom: 15px;
+}
+
+/* Contacts.js */
+.contact-item {
+  margin-bottom: 10px;
+}
