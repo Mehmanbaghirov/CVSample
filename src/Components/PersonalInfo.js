@@ -8,7 +8,6 @@ const PersonalInfo = () => {
       <p>Name : Mehman</p>
       <p>Surname : Baghirov</p>
       <p>Age : 20</p>
-      <p>Speaciality : Instrument Engineering</p>
     </div>
   );
 };
